@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "spr": {
+      "commandName": "Project",
+      "commandLineArgs": "Rock Paper Scissors"
+    }
+  }
+}
